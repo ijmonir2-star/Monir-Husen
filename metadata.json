@@ -1,0 +1,6 @@
+{
+  "name": "TV Pro Launcher",
+  "description": "A high-performance Android TV-optimized web interface for streaming and web services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
